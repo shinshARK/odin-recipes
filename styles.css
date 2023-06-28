@@ -1,0 +1,28 @@
+body .container {
+    text-align: center;
+}
+
+.container {
+    /* width: fit-content; */
+    border-style:solid;
+    /* border-block: solid; */
+    
+}
+
+.list-style-none {
+    list-style: none;
+}
+
+.img.food {
+    float: left;
+    height: 500px;    
+    width: auto;
+    margin-right: 20px;
+}
+
+
+.img.header {
+    height: auto;
+    width: 300px;
+}
+
