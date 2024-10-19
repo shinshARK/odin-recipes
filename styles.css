@@ -1,16 +1,24 @@
+* {
+    font-family: Consolas, sans-serif;
+    background-color: gainsboro;
+}
+
 body .container {
     text-align: center;
 }
 
-.container {
+/* .container { */
     /* width: fit-content; */
-    border-style:solid;
+    /* border-style:solid; */
     /* border-block: solid; */
     
-}
+/* } */
 
-.list-style-none {
-    list-style: none;
+
+
+li {
+    list-style-type: none;
+    text-indent: 1%;
 }
 
 .img.food {
